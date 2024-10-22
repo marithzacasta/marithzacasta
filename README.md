@@ -10,36 +10,39 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-I am passionate developer with tons of experience with different stack.
+I am a passionate developer eager to keep learning.
 
-- 🔭 I’m currently working on [Elpha](https://github.com/pranshu05/elpha)
+- 🔭 I like to be constantly learning
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I like to contribute with the knowledge I have
 
-- 👯 I’m looking to collaborate on **Discord bot**
+- 👯 I enjoy working on group projects
 
-- 👨‍💻 All of my projects are available at [https://pranshu05.github.io](https://pranshu05.github.io)
+- 👨‍💻 I like new challenges
 
-- 💬 Ask me about **discord.js**
+- ⚡ in my free time I like to work on myself, to improve myself as a person.
 
-- 📫 How to reach me **pranshu05patel@gmail.com**
-
-- ⚡ Fun fact **I am chess enthusiast**
 
 
 # 🚀 I am learning
 
-- 🔭 I’m currently working on [Elpha](https://github.com/pranshu05/elpha)
+- <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;, <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;  y   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;  Para crear Frontend.
+  
+- <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp; Pra crear los prototipos.
+  
+- <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp; Lo utilizo para organizar mis tareas y cuando trabajo en proyectos en conjunto.
+  
+- <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;Para trabajar en el Backend.
+  
+- <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp; Para trabajar bases de datos.
+  
+- <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp; Para trabajar las Versiones.
 
-- 🌱 I’m currently learning **Typescript**
+- <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp; Para trabar en frontend y backend.
 
-- 👯 I’m looking to collaborate on **Discord bot**
-
-- 👨‍💻 All of my projects are available at [https://pranshu05.github.io](https://pranshu05.github.io)
-
-- 💬 Ask me about **discord.js**
-
-- 📫 How to reach me **pranshu05patel@gmail.com**
+- <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp; Pra trabajar con contenedores.
+  
+#
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
