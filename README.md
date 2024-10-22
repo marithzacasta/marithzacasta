@@ -6,7 +6,9 @@
 
 # 💫 About me
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<!--  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
+
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 I am passionate developer with tons of experience with different stack.
 
@@ -25,7 +27,19 @@ I am passionate developer with tons of experience with different stack.
 - ⚡ Fun fact **I am chess enthusiast**
 
 
-# 🚀 Skills
+# 🚀 I am learning
+
+- 🔭 I’m currently working on [Elpha](https://github.com/pranshu05/elpha)
+
+- 🌱 I’m currently learning **Typescript**
+
+- 👯 I’m looking to collaborate on **Discord bot**
+
+- 👨‍💻 All of my projects are available at [https://pranshu05.github.io](https://pranshu05.github.io)
+
+- 💬 Ask me about **discord.js**
+
+- 📫 How to reach me **pranshu05patel@gmail.com**
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
