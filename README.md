@@ -44,7 +44,7 @@ I am a passionate to keep learning.
 
 # 🚀 Testing tools
 
-- <img src="https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?&style=for-the-badge&color=FFA500" />&nbsp;&nbsp; create automated tests with code
+- <img src="https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?&style=for-the-badge&color=FFA500" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Selenium%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp; create automated tests with code
   
 - <img src="https://img.shields.io/badge/Katalon Record%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp; create automated tests without code
   
