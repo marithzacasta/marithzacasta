@@ -1,56 +1,91 @@
-<h1 align="center"> 👋 Web Fullstack Developer and Tester ❤️ </h1>
+<h1 align="center">👋 Junior Software Quality Analyst | QA Automation Tester</h1>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer%and%Tester;Software+Development+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/TU-USUARIO">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Quality+Analyst;QA+Automation+Tester;Manual+%26+Automation+Testing;Software+Engineering+Student;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=800&height=100&color=58a6ff&vCenter=true&size=32">
+  </a>
 </p>
 
-# 💫 About me
+---
 
-<!--  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
+# 💫 About Me
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width="280px" alt="Coding Girl" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-I am a passionate to keep learning.
+I am a Junior Software Quality Analyst passionate about software testing, quality assurance, and continuous learning.
 
-- 🔭 I like to be constantly learning
+I have experience in manual testing, automated testing, API testing, bug reporting, and validation of business requirements.
 
-- 🌱 I like to contribute with the knowledge I have
+Currently studying Software Engineering and improving my QA Automation skills using modern testing tools and frameworks.
 
-- 👯 I enjoy working on group projects
+- 🔍 Passionate about Software Quality Assurance
+- 🚀 Interested in QA Automation and Web Testing
+- 🤝 Teamwork and collaborative mindset
+- 📚 Continuous learner and self-taught developer
+- 🌎 B1 English certified | Currently studying B2
+- ⚡ Motivated by challenges and problem solving
 
-- 👨‍💻 I like new challenges
+---
 
-- ⚡ in my free time I like to work on myself, to improve myself as a person.
+# 🧪 QA & Testing Tools
 
+<p align="left">
 
+<img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" />
 
-# 👨‍💻 Development tool
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 
-- <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp; y <img src="https://img.shields.io/badge/TailwindCss%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp; To create Frontend.
-  
-- <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp; To create prototypes.
-  
-- <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp; I use it to organize my tasks and when working on projects together.
-  
-- <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp; To work in the Backend.
-  
-- <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp; To work with databases.
-  
-- <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp; To work on the Versions.
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
-- <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp; For working with containers.
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
 
-# 🚀 Testing tools
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
 
-- <img src="https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?&style=for-the-badge&color=FFA500" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Selenium%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp; create automated tests with code
-  
-- <img src="https://img.shields.io/badge/Katalon Record%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp; create automated tests without code
-  
-- <img src="https://img.shields.io/badge/Jira%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp; Scrum and manage incidents.
-  
-- <img src="https://img.shields.io/badge/BrowserStack%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp; test the application in different browsers
+<img src="https://img.shields.io/badge/Gherkin-5B2063?style=for-the-badge&logo=cucumber&logoColor=white" />
 
+<img src="https://img.shields.io/badge/BrowserStack-FF9900?style=for-the-badge&logo=browserstack&logoColor=white" />
 
-  
+</p>
+
+---
+
+# 💻 Development Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced QA Automation
+- API Testing
+- Playwright Framework
+- Performance Testing
+- Software Testing Best Practices
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/marithza-castaño-paniagua-713415276
+- Email: marithzacastano9.5@gmail.com
