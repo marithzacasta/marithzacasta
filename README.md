@@ -33,8 +33,6 @@ Currently studying Software Engineering and improving my QA Automation skills us
 
 <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -46,8 +44,6 @@ Currently studying Software Engineering and improving my QA Automation skills us
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Gherkin-5B2063?style=for-the-badge&logo=cucumber&logoColor=white" />
-
-<img src="https://img.shields.io/badge/BrowserStack-FF9900?style=for-the-badge&logo=browserstack&logoColor=white" />
 
 </p>
 
