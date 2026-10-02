@@ -1,0 +1,26 @@
+{
+    "title": "DevOps Language Stack",
+    "_comment": "Values 0-100. Edit these and the Charts workflow redraws it.",
+    "axes": [
+        {
+            "label": "Python",
+            "value": 88
+        },
+        {
+            "label": "Bash/Shell",
+            "value": 85
+        },
+        {
+            "label": "Javascript",
+            "value": 90
+        },
+        {
+            "label": "HCL",
+            "value": 80
+        },
+        {
+            "label": "YAML",
+            "value": 90
+        }
+    ]
+}
