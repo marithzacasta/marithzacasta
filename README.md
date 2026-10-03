@@ -22,6 +22,24 @@
 </div>
 
 ---
+# 💫 About Me
+
+<img align="right" width="280px" alt="Coding Girl" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+I am a Junior Software Quality Analyst passionate about software testing, quality assurance, and continuous learning.
+
+I have experience in manual testing, automated testing, API testing, bug reporting, and validation of business requirements.
+
+Currently studying Software Engineering and improving my QA Automation skills using modern testing tools and frameworks.
+
+- 🔍 Passionate about Software Quality Assurance
+- 🚀 Interested in QA Automation and Web Testing
+- 🤝 Teamwork and collaborative mindset
+- 📚 Continuous learner and self-taught developer
+- 🌎 B1 English certified | Currently studying B2
+- ⚡ Motivated by challenges and problem solving
+
+---
 <p align="center">
   <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de María Claudia, DevOps Engineer">
 </p>
@@ -81,22 +99,6 @@
 
 ---
 
-# 💫 About Me
-
-<img align="right" width="280px" alt="Coding Girl" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-I am a Junior Software Quality Analyst passionate about software testing, quality assurance, and continuous learning.
-
-I have experience in manual testing, automated testing, API testing, bug reporting, and validation of business requirements.
-
-Currently studying Software Engineering and improving my QA Automation skills using modern testing tools and frameworks.
-
-- 🔍 Passionate about Software Quality Assurance
-- 🚀 Interested in QA Automation and Web Testing
-- 🤝 Teamwork and collaborative mindset
-- 📚 Continuous learner and self-taught developer
-- 🌎 B1 English certified | Currently studying B2
-- ⚡ Motivated by challenges and problem solving
 
 ---
 
@@ -146,15 +148,16 @@ Currently studying Software Engineering and improving my QA Automation skills us
 
 # 📚 Currently Learning
 
-- Advanced QA Automation
-- API Testing
-- Playwright Framework
-- Performance Testing
-- Software Testing Best Practices
+- 🧪 QA Automation 
+- 🔌 API Testing 
+- ⚙️ Automated Testing with Cypress and Playwright 
+- 🐍 Python for Test Automation 
+- ⚡ Performance Testing 
+- 📊 Software Testing Best Practices
 
 ---
 
 # 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/marithza-castaño-paniagua-713415276
-- Email: marithzacastano9.5@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/marithza-castaño-paniagua-713415276
+- 📧 Email: marithzacastano9.5@gmail.com
