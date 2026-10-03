@@ -33,27 +33,27 @@ TRAVELLER_COUNT = 900
 HOLD_PARTICLE_COUNT = 2_400
 SEED = 314159
 LOGO_SUFFIXES = {".png", ".webp"}
-LOGO_ALIASES = {"kube": "kubernetes"}
-PREFERRED_LOGO_ORDER = ("linux", "kubernetes")
+LOGO_ALIASES = {"cypresss": "kubernetes"}
+PREFERRED_LOGO_ORDER = ("playwright", "kubernetes")
 
 YAML_ROWS = [
     (0, "profile", ""),
-    (1, "subject", "Maria Claudia"),
-    (1, "role", "DevOps Engineer"),
-    (1, "origin", "Rosario, Argentina"),
-    (1, "focus", "CI/CD · Cloud Native · IaC"),
-    (1, "status", "Automatizacion · Escalado · Despliegue"),
-    (1, "toolchain", "Terraform · Helm · GitHub Actions"),
+    (1, "subject", "Marithza"),
+    (1, "role", "Junior QA Analyst"),
+    (1, "origin", "Colombia"),
+    (1, "focus", "Software Testing · QA · Quality Assurance"),
+    (1, "status", "Testing · Bug Detection · Continuous Learning"),
+    (1, "toolchain", "Postman · Git · GitHub · Jira"),
     (0, "stack", ""),
-    (1, "cloud", "AWS · Azure"),
-    (1, "containers", "Kubernetes · Docker · Helm"),
-    (1, "iac", "Terraform · Ansible"),
-    (1, "observability", "Prometheus · Datadog · Sentry"),
-    (1, "automation", "Python · Bash · JavaScript"),
+    (1, "testing", "Functional Testing · API Testing · Test Cases"),
+    (1, "development", "JavaScript · React · Node.js"),
+    (1, "database", "SQL · MySQL"),
+    (1, "automation", "JavaScript · API Testing"),
+    (1, "methodologies", "Agile · Scrum"),
     (0, "contact", ""),
-    (1, "linkedin", "/in/mcperezes"),
-    (1, "github", "macu-dev"),
-    (1, "timezone", "UTC-3 · Rosario"),
+    (1, "linkedin", "/in/marithzacasta"),
+    (1, "github", "marithzacasta"),
+    (1, "timezone", "UTC-5 · Colombia"),
 ]
 
 THEMES = {
