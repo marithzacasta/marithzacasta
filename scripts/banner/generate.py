@@ -25,7 +25,7 @@ SOURCE = ROOT / "assets/source/portrait.png"
 ASSETS = ROOT / "assets"
 LOGOS = Path(__file__).resolve().parent / "logos"
 
-W, H = 1180, 610
+W, H = 1000, 500
 INTRO_SECONDS = 3.2
 TRANSITION_SECONDS = 1.3
 LOGO_HOLD_SECONDS = 4.0

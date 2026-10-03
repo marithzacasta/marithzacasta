@@ -40,8 +40,10 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ 🧪 qa_testing:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
-        <sub><code>Functional Testing · Test Cases · Bug Reporting · QA</code></sub>
+        <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress"><br>
+        <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright"><br>
+        <img src="https://skillicons.dev/icons?i=pytest" alt="Pytest"><br>
+        <sub><code>Functional Testing · Test Cases · Bug Reporting · Test Automation</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ 🔌 api_testing:</code><br><br>
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
@@ -49,21 +51,22 @@
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ✦ development:</code><br><br>
+      <td valign="top"><code>├─ 💻 development:</code><br><br>
         <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,tailwind" alt="JavaScript, React, Node.js, HTML, CSS y TailwindCSS"><br>
         <sub><code>JavaScript · React · Node.js · HTML · CSS · TailwindCSS</code></sub>
       </td>
-      <td valign="top"><code>├─ ▣ databases:</code><br><br>
+      <td valign="top"><code>├─ 🗄️ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
         <sub><code>SQL · MySQL</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ⚙ tools:</code><br><br>
+      <td valign="top"><code>├─ 🐳 tools & environment:</code><br><br>
         <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub y Visual Studio Code"><br>
         <sub><code>Git · GitHub · VS Code</code></sub>
       </td>
       <td valign="top"><code>╰─ 🔄 methodologies:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=scrum" alt="Scrum"><br>
         <sub><code>Agile · Scrum · Sprints · User Stories · Acceptance Criteria</code></sub>
       </td>
     </tr>
