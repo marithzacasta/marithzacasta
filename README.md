@@ -40,9 +40,9 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ 🧪 qa_testing:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress"><br>
-        <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright"><br>
-        <img src="https://skillicons.dev/icons?i=pytest" alt="Pytest"><br>
+        <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white"><br>
         <sub><code>Functional Testing · Test Cases · Bug Reporting · Test Automation</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ 🔌 api_testing:</code><br><br>
@@ -66,7 +66,6 @@
         <sub><code>Git · GitHub · VS Code</code></sub>
       </td>
       <td valign="top"><code>╰─ 🔄 methodologies:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=scrum" alt="Scrum"><br>
         <sub><code>Agile · Scrum · Sprints · User Stories · Acceptance Criteria</code></sub>
       </td>
     </tr>
