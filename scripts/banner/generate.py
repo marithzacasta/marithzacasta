@@ -25,7 +25,7 @@ SOURCE = ROOT / "assets/source/portrait.png"
 ASSETS = ROOT / "assets"
 LOGOS = Path(__file__).resolve().parent / "logos"
 
-W, H = 1400, 800
+W, H = 1180, 610
 INTRO_SECONDS = 3.2
 TRANSITION_SECONDS = 1.3
 LOGO_HOLD_SECONDS = 4.0
@@ -185,7 +185,7 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     source = Image.open(SOURCE).convert("RGBA")
     # Tighter head + shoulders crop so face detail fills the VISUAL.MAP frame.
     w, h = source.size
-    crop_w = int(w * 0.60)
+    crop_w = int(w * 0.85)
     crop_h = int(crop_w * (340 / 300))
     left = (w - crop_w) // 2
     top = int(h * 0.08)
