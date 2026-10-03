@@ -31,111 +31,51 @@
 <div align="center">
 
 ---
-```html
-<div align="center">
-
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left">
-        <code>marithzacasta:~$ cat tech-stack.yaml</code>
-      </th>
+      <th colspan="2" align="left"><code>marithzacasta:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
-
   <tbody>
-
-    <!-- QA & TESTING -->
     <tr>
-      <td width="50%" valign="top">
-        <code>├─ 🧪 qa_testing:</code><br><br>
-
-        <img src="https://skillicons.dev/icons?i=postman"
-             alt="Postman"><br>
-
-        <sub>
-          <code>Functional Testing · Test Cases · Bug Reporting · QA</code>
-        </sub>
+      <td width="50%" valign="top"><code>├─ 🧪 qa_testing:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
+        <sub><code>Functional Testing · Test Cases · Bug Reporting · QA</code></sub>
       </td>
-
-      <!-- API TESTING -->
-      <td width="50%" valign="top">
-        <code>├─ 🔌 api_testing:</code><br><br>
-
-        <img src="https://skillicons.dev/icons?i=postman"
-             alt="Postman"><br>
-
-        <sub>
-          <code>REST APIs · API Testing · Postman</code>
-        </sub>
+      <td width="50%" valign="top"><code>├─ 🔌 api_testing:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
+        <sub><code>REST APIs · API Testing · Postman</code></sub>
       </td>
     </tr>
-
-
-    <!-- DEVELOPMENT -->
     <tr>
-      <td valign="top">
-        <code>├─ ✦ development:</code><br><br>
-
-        <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,tailwind"
-             alt="JavaScript, React, Node.js, HTML, CSS y TailwindCSS"><br>
-
-        <sub>
-          <code>JavaScript · React · Node.js · HTML · CSS · TailwindCSS</code>
-        </sub>
+      <td valign="top"><code>├─ ✦ development:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,tailwind" alt="JavaScript, React, Node.js, HTML, CSS y TailwindCSS"><br>
+        <sub><code>JavaScript · React · Node.js · HTML · CSS · TailwindCSS</code></sub>
       </td>
-
-      <!-- DATABASES -->
-      <td valign="top">
-        <code>├─ ▣ databases:</code><br><br>
-
-        <img src="https://skillicons.dev/icons?i=mysql"
-             alt="MySQL"><br>
-
-        <sub>
-          <code>SQL · MySQL</code>
-        </sub>
+      <td valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+        <sub><code>SQL · MySQL</code></sub>
       </td>
     </tr>
-
-
-    <!-- TOOLS -->
     <tr>
-      <td valign="top">
-        <code>├─ ⚙ tools:</code><br><br>
-
-        <img src="https://skillicons.dev/icons?i=git,github,vscode"
-             alt="Git, GitHub y Visual Studio Code"><br>
-
-        <sub>
-          <code>Git · GitHub · VS Code</code>
-        </sub>
+      <td valign="top"><code>├─ ⚙ tools:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub y Visual Studio Code"><br>
+        <sub><code>Git · GitHub · VS Code</code></sub>
       </td>
-
-      <!-- METHODOLOGIES -->
-      <td valign="top">
-        <code>╰─ 🔄 methodologies:</code><br><br>
-
-        <sub>
-          <code>Agile · Scrum · Sprints · User Stories · Acceptance Criteria</code>
-        </sub>
+      <td valign="top"><code>╰─ 🔄 methodologies:</code><br><br>
+        <sub><code>Agile · Scrum · Sprints · User Stories · Acceptance Criteria</code></sub>
       </td>
     </tr>
-
   </tbody>
-
   <tfoot>
     <tr>
-      <td colspan="2">
-        <code>status: learning · focus: software quality</code>
-      </td>
+      <td colspan="2"><code>status: learning&nbsp;&nbsp;·&nbsp;&nbsp;focus: software quality</code></td>
     </tr>
   </tfoot>
-
 </table>
 
 </div>
-```
 
 ---
 

@@ -48,7 +48,7 @@ YAML_ROWS = [
     (1, "testing", "Functional Testing · API Testing · Test Cases"),
     (1, "development", "JavaScript · React · Node.js"),
     (1, "database", "SQL · MySQL"),
-    (1, "automation", "JavaScript · API Testing"),
+    (1, "automation", "Cypress · Playwright"),
     (1, "methodologies", "Agile · Scrum"),
     (0, "contact", ""),
     (1, "linkedin", "/in/marithzacasta"),
