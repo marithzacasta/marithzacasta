@@ -26,11 +26,11 @@
 
 <img align="right" width="280px" alt="Coding Girl" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-I am a Junior Software Quality Analyst passionate about software testing, quality assurance, and continuous learning.
+I am a Junior Software Quality Analyst passionate about software testing, quality assurance, and continuous learning. 
 
-I have experience in manual testing, automated testing, API testing, bug reporting, and validation of business requirements.
+I have knowledge of manual testing, test case design, API testing, bug reporting, and validation of business requirements, with a growing focus on QA Automation. 
 
-Currently studying Software Engineering and improving my QA Automation skills using modern testing tools and frameworks.
+Currently studying Software Engineering and strengthening my skills in automated testing, API testing, and software quality.
 
 - 🔍 Passionate about Software Quality Assurance
 - 🚀 Interested in QA Automation and Web Testing
@@ -52,38 +52,35 @@ Currently studying Software Engineering and improving my QA Automation skills us
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>marithzacasta:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>Knowlegde: Tools </code></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ 🧪 qa_testing:</code><br><br>
-        <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white"><br>
+      <td width="50%" valign="top"><code>├─ 🧪 QA_Testing:</code><br><br>
         <sub><code>Functional Testing · Test Cases · Bug Reporting · Test Automation</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ 🔌 api_testing:</code><br><br>
+      <td width="50%" valign="top"><code>├─ 🔌 API_Testing:</code><br><br>
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
         <sub><code>REST APIs · API Testing · Postman</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ 💻 development:</code><br><br>
+      <td valign="top"><code>├─ 💻 Development:</code><br><br>
         <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,tailwind" alt="JavaScript, React, Node.js, HTML, CSS y TailwindCSS"><br>
         <sub><code>JavaScript · React · Node.js · HTML · CSS · TailwindCSS</code></sub>
       </td>
-      <td valign="top"><code>├─ 🗄️ databases:</code><br><br>
+      <td valign="top"><code>├─ 🗄️ Databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
         <sub><code>SQL · MySQL</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ 🐳 tools & environment:</code><br><br>
+      <td valign="top"><code>├─ 🐳 Tools & Environment:</code><br><br>
         <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub y Visual Studio Code"><br>
         <sub><code>Git · GitHub · VS Code</code></sub>
       </td>
-      <td valign="top"><code>╰─ 🔄 methodologies:</code><br><br>
+      <td valign="top"><code>╰─ 🔄 Methodologies:</code><br><br>
         <sub><code>Agile · Scrum · Sprints · User Stories · Acceptance Criteria</code></sub>
       </td>
     </tr>
@@ -96,53 +93,6 @@ Currently studying Software Engineering and improving my QA Automation skills us
 </table>
 
 </div>
-
----
-
-
----
-
-# 🧪 QA & Testing Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Gherkin-5B2063?style=for-the-badge&logo=cucumber&logoColor=white" />
-
-</p>
-
----
-
-# 💻 Development Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</p>
 
 ---
 
@@ -161,3 +111,4 @@ Currently studying Software Engineering and improving my QA Automation skills us
 
 - 💼 LinkedIn: www.linkedin.com/in/marithza-castaño-paniagua-713415276
 - 📧 Email: marithzacastano9.5@gmail.com
+- ⚡ Portafolio: https://marithzaportafolio.lovable.app/
