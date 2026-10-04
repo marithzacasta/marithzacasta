@@ -473,7 +473,7 @@ def render_svg(
             f'stroke="{t["chrome"]}"/>',
             f'<text x="1062" y="111" text-anchor="middle" fill="{t["chrome"]}" '
             'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" '
-            'font-weight="700">@mari-dev</text>',
+            'font-weight="700">@marithza-dev</text>',
         ]
     )
 
