@@ -49,45 +49,70 @@ Currently studying Software Engineering and strengthening my skills in automated
 <div align="center">
 
 ---
+#  ⚙️ Tools
 <table border="1" cellpadding="14" bgcolor="#17171c">
-  <thead>
+  <!-- <thead>
     <tr>
-      <th colspan="2" align="left"><code>Knowlegde: Tools </code></th>
+      <th colspan="2" align="center"><code> ⚙️ Tools </code></th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ 🧪 QA_Testing:</code><br><br>
+      <td width="50%" valign="top"><code> 🧪 QA_Testing:</code><br><br>
+        <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"><br>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"><br>
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"><br>
         <sub><code>Functional Testing · Test Cases · Bug Reporting · Test Automation</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ 🔌 API_Testing:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br>
+      <td width="50%" valign="top"><code>🔌 API_Testing:</code><br><br>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"><br>
         <sub><code>REST APIs · API Testing · Postman</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ 💻 Development:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,tailwind" alt="JavaScript, React, Node.js, HTML, CSS y TailwindCSS"><br>
-        <sub><code>JavaScript · React · Node.js · HTML · CSS · TailwindCSS</code></sub>
+      <td valign="top"><code> 🎫 Test Management:</code><br><br>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"><br>
+        <img src="https://img.shields.io/badge/TestRail-4B77BE?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail"><br>
+        <sub><code>Test Cases · Bug Tracking · Test Management · Requirements</code></sub>
       </td>
-      <td valign="top"><code>├─ 🗄️ Databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-        <sub><code>SQL · MySQL</code></sub>
+      <td valign="top"><code> 💻 Development:</code><br><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"><br>
+        <sub><code>JavaScript · React · Node.js · HTML · CSS · TailwindCSS</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ 🐳 Tools & Environment:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub y Visual Studio Code"><br>
+    <td valign="top"><code> 🗄️ Databases:</code><br><br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><br>
+        <sub><code>SQL · MySQL</code></sub>
+      </td>
+      <td valign="top"><code> 🐳 Tools & Environment:</code><br><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><br>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"><br>
         <sub><code>Git · GitHub · VS Code</code></sub>
       </td>
-      <td valign="top"><code>╰─ 🔄 Methodologies:</code><br><br>
+    </tr>
+    <tr>
+      <td valign="top"><code> 🎨 Frontend:</code><br><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><br>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"><br>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"><br>
+        <sub><code>Responsive Design · UI Development · Component-Based Development</code></sub>
+      </td>
+    <td valign="top"><code> 🔄 Methodologies:</code><br><br>
+      <img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"><br>
+<img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"><br>
         <sub><code>Agile · Scrum · Sprints · User Stories · Acceptance Criteria</code></sub>
       </td>
     </tr>
   </tbody>
-  <tfoot>
+  <tfoot >
     <tr>
-      <td colspan="2"><code>status: learning&nbsp;&nbsp;·&nbsp;&nbsp;focus: software quality</code></td>
+      <td colspan="2" align="center"><code>status: learning&nbsp;&nbsp;·&nbsp;&nbsp;focus: software quality</code></td>
     </tr>
   </tfoot>
 </table>
